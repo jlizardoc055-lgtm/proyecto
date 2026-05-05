@@ -14,5 +14,20 @@ a{
     border-radius: 999px;
 }
 p{
-     margin: 150px;
+    
+     text-align: center;
 }
+figure{
+    color: rgb(40, 201, 126);
+    background-color: white;
+    text-decoration: none;
+    padding: 10px 100px;
+    border: 10px solid blue;
+    margin: 50px;
+
+}
+.etiquetas{
+    color: aqua;
+}
+
+
